@@ -1,0 +1,28 @@
+a {
+    color:#fff9e6; font-size:20;
+}
+
+table {
+    border: 2 px solid #96312e; 
+    border-collapse: collapse;
+}
+
+.tablica {
+    border: 1 px #96312e; 
+    color:#96312e;
+}
+
+.foto1 {
+    height: 250;
+    width: 250;
+}
+
+body {
+    font-family:sans-serif;
+}
+
+header {
+    text-align:center;
+    background-color:#c8756a;
+    color:#fff9e6;
+}
